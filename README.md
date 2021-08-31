@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything that make money (on good way)
 - 👯 I’m looking to collaborate on something usefull
 - 📫 How to reach me: yudha.ditya19@gmail.com
-- ⚡ Fun fact: learn programming since 2012 but still not understanding OOP and async promise.
+
 
 <p align="left">
 <a href="https://github.com/yudhaDitya">
