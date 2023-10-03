@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://app.daily.dev/udha19"><img src="https://api.daily.dev/devcards/4e00188f6cca4c37b4df26b27095a85b.png?r=grb" width="400" alt="Yudha Ditya's Dev Card"/></a>
-
+<a href="https://app.daily.dev/udha19"><img src="https://api.daily.dev/devcards/4e00188f6cca4c37b4df26b27095a85b.png?r=tkm" width="400" alt="Udha's Dev Card"/></a>
 <p align="left">
 <a href="https://github.com/yudhaDitya">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=udha19&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
