@@ -24,3 +24,4 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=udha19&layout=compact&langs_count=8&theme=nord"/>
 </a>
 </p>
+![image](https://www.codewars.com/users/udha19/badges/large)
