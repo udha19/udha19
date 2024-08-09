@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... -->
 
-- 🌱 I’m currently learning everything that make money (on good way)
-- 👯 I’m looking to collaborate on something usefull
-- 📫 How to reach me: yudhaekopraditya@gmail.com
+- 📫 yudhaekopraditya@gmail.com
 
 
 ![image](https://www.codewars.com/users/udha19/badges/large)
