@@ -28,3 +28,5 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=udha19&layout=compact&langs_count=8&theme=nord"/>
 </a>
 </p>
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=e4e3e7480c2e652e134dbbe07c6b644c&theme=nord)](https://gist.github.com/udha19/e4e3e7480c2e652e134dbbe07c6b644c)
